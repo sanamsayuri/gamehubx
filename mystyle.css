@@ -1,0 +1,18 @@
+.helo{
+  background-image:url("https://cdn.dribbble.com/users/637936/screenshots/3150687/dribble_perfect.gif");
+  background-size: cover;
+}
+.cardx{
+     margin: 100px auto;
+     display: flex;
+
+}
+.card1,.card2,.card3{
+  margin:50px 150px;
+
+}
+.xp{
+  color: #fff;
+  background-color:#000;
+  background:transperent;
+}
